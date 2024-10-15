@@ -1,0 +1,12 @@
+@import "variable";
+@import "reset";
+@import "mixins";
+
+// section
+@import "header";
+@import "hero";
+@import "about";
+
+body{
+    min-height: 500vh;
+}
